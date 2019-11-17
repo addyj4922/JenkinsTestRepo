@@ -1,3 +1,3 @@
 l="ADDY"
 for i in range(5):
-	print(l+" " + i)
+	print("{0} - {1}".format(l,i))
